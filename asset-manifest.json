@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/hr-employee-dashboard/static/css/main.f2e24247.css",
+    "main.js": "/hr-employee-dashboard/static/js/main.6c0d09bd.js",
+    "static/js/453.cdbaeb09.chunk.js": "/hr-employee-dashboard/static/js/453.cdbaeb09.chunk.js",
+    "static/media/candidateone.jpeg": "/hr-employee-dashboard/static/media/candidateone.7ce4c328f77e01fb9e8e.jpeg",
+    "static/media/assmentimg.png": "/hr-employee-dashboard/static/media/assmentimg.5424e83239b035fb5330.png",
+    "static/media/notification.png": "/hr-employee-dashboard/static/media/notification.a243db1e7907ead2d588.png",
+    "static/media/chat.png": "/hr-employee-dashboard/static/media/chat.0234e733d159380ea4a8.png",
+    "static/media/search.png": "/hr-employee-dashboard/static/media/search.a12d9e3f5508f6231774.png",
+    "static/media/settings.png": "/hr-employee-dashboard/static/media/settings.fdbe5309dc224a71527a.png",
+    "static/media/headerOne.png": "/hr-employee-dashboard/static/media/headerOne.5eb065c260309b616451.png",
+    "static/media/file.PNG": "/hr-employee-dashboard/static/media/file.277fbc62ce8a1af6185c.PNG",
+    "static/media/python.PNG": "/hr-employee-dashboard/static/media/python.744c3759a2203ca0ccc4.PNG",
+    "static/media/menuicon8.PNG": "/hr-employee-dashboard/static/media/menuicon8.612e6afb82c9e74c2517.PNG",
+    "static/media/menuicon7.PNG": "/hr-employee-dashboard/static/media/menuicon7.4427d4d497605314f460.PNG",
+    "index.html": "/hr-employee-dashboard/index.html",
+    "static/media/menuicon2.PNG": "/hr-employee-dashboard/static/media/menuicon2.8bc1b7713cb5d9dbf4c9.PNG",
+    "static/media/angular.PNG": "/hr-employee-dashboard/static/media/angular.203b8751d28f37c122ee.PNG",
+    "static/media/java.PNG": "/hr-employee-dashboard/static/media/java.c6920a75c4a9be83e68a.PNG",
+    "static/media/menuicon9.PNG": "/hr-employee-dashboard/static/media/menuicon9.7fe580c81ade41956f9b.PNG",
+    "static/media/menuicon3.PNG": "/hr-employee-dashboard/static/media/menuicon3.ca4b8e7504906e3043da.PNG",
+    "static/media/menuicon4.PNG": "/hr-employee-dashboard/static/media/menuicon4.6c6b3241dc220db413a1.PNG",
+    "static/media/view.PNG": "/hr-employee-dashboard/static/media/view.2ad8471956075f024b34.PNG",
+    "static/media/time.PNG": "/hr-employee-dashboard/static/media/time.794e793b4a69694f1241.PNG",
+    "static/media/menuicon1.PNG": "/hr-employee-dashboard/static/media/menuicon1.467fe26ac471aff3b027.PNG",
+    "static/media/menuicon6.PNG": "/hr-employee-dashboard/static/media/menuicon6.dd5e9353db2cc9e2e631.PNG",
+    "static/media/menuicon5.PNG": "/hr-employee-dashboard/static/media/menuicon5.3e921819f30f42b7fa97.PNG",
+    "static/media/calendar.PNG": "/hr-employee-dashboard/static/media/calendar.a974f8633c5e05fe73ac.PNG",
+    "static/media/filter.PNG": "/hr-employee-dashboard/static/media/filter.08ad2fc56594d5bf08c3.PNG",
+    "static/media/upArrow.PNG": "/hr-employee-dashboard/static/media/upArrow.08c862158e8f218725c8.PNG",
+    "static/media/dots.PNG": "/hr-employee-dashboard/static/media/dots.4963acd0dceb0e4c5392.PNG",
+    "main.f2e24247.css.map": "/hr-employee-dashboard/static/css/main.f2e24247.css.map",
+    "main.6c0d09bd.js.map": "/hr-employee-dashboard/static/js/main.6c0d09bd.js.map",
+    "453.cdbaeb09.chunk.js.map": "/hr-employee-dashboard/static/js/453.cdbaeb09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e24247.css",
+    "static/js/main.6c0d09bd.js"
+  ]
+}
