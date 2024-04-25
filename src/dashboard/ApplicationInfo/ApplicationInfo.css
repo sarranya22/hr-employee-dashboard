@@ -1,0 +1,123 @@
+.Chart-layout {
+    width: 1220px;
+    height: 383px;
+    top: 343px;
+    left: 165.92px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 25px 0px #00000026;
+    margin-left: 65px;
+    display: flex;
+}
+
+.New-assment {
+    width: 500px;
+    margin-left: 44px;
+    top: 343px;
+    left: 1172px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    background: linear-gradient(74deg, #0A66C2 6.27%, #5994CE 90.96%);
+    box-shadow: 4px 4px 25px 0px #00000026;
+
+}
+
+.File-image {
+    width: 125px;
+    height: 125px;
+    top: 392px;
+    left: 1223px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.Countlayout {
+    width: 140px;
+    height: 84px;
+    top: 556px;
+    left: 1223px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 84px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.New-assment-text {
+    width: 204px;
+    height: 33px;
+    top: 654px;
+    left: 1223px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 40px;
+
+}
+
+.imageOne {
+    width: 132.71px;
+    height: 165.88px;
+    top: 371.56px;
+    left: 1530.95px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 75px;
+}
+
+.imageTwo {
+    width: 277.36px;
+    height: 346.7px;
+    top: 180px;
+    left: 1182.82px;
+    gap: 0px;
+    opacity: 0px;
+    /* margin-top: -68px; */
+    position: absolute;
+}
+
+.View-details {
+    width: 145px;
+    height: 45px;
+    top: 642px;
+    left: 1684px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    margin-left: 66%;
+    margin-top: -45px;
+}
+
+.View-detail-text {
+    width: 92px;
+    height: 21px;
+    top: 654px;
+    left: 1710.5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;
+    padding-top: 13px;
+    padding-left: 19px;
+}

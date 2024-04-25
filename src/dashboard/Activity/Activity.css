@@ -1,0 +1,130 @@
+.Activity-layout {
+    width: 318.75px;
+    height: 260.52px;
+    top: 1551.86px;
+    left: 1563.2px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 25px
+        /* border: 2px solid #0A66C2; */
+}
+
+.Activity-text {
+    width: 94.96px;
+    height: 32.43px;
+    top: 1551.86px;
+    left: 1563.2px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: left;
+    color: #3E3E3E;
+
+}
+
+.ActivityView-all {
+    width: 66.16px;
+    height: 26.04px;
+    top: 1075.35px;
+    margin-left: 170px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #0A66C2;
+    text-decoration: underline;
+
+}
+
+.Activity-data {
+    width: 247.25px;
+    /* height: 300.76px; */
+    /* top: 1621.62px;
+left: 1563.2px; */
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+}
+
+.User-icon {
+    width: 62.9px;
+    height: 62.9px;
+    top: 1624.58px;
+    left: 1564.18px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.Data {
+    width: 171.37px;
+    height: 68.35px;
+    top: 1621.62px;
+    left: 1639.08px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.Name {
+    width: 171.37px;
+    /* height: 35.8px; */
+    top: 1621.62px;
+    left: 1639.08px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+
+}
+
+.Designation {
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: left;
+    color: #0B74AD;
+
+}
+
+.Interview {
+    width: 118.22px;
+    height: 18.44px;
+    top: 1648.75px;
+    left: 1639.08px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16.5px;
+    text-align: left;
+    color: #3E3E3E;
+
+}
+
+.Lastsceen {
+    width: 58.57px;
+    height: 15.19px;
+    top: 1674.79px;
+    left: 1639.08px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 13.5px;
+    text-align: left;
+    color: #3E3E3E;
+
+}

@@ -1,0 +1,126 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* Global Styles */
+
+.App-logo {
+  pointer-events: none;
+  height: 61.64px;
+  width: 231.8px;
+}
+
+.header-icon {
+  width: 25px;
+  height: 25px;
+  /* box-shadow: 4px 4px 25px 0px #00000026; */
+}
+
+input {
+  width: 450px;
+  height: 64px;
+  top: 30.5px;
+  left: 340.56px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 4px 4px 25px 0px #00000026;
+
+}
+
+/* .icon {
+    position: absolute;
+    right: 12px;
+    top: 16px;
+    width: 24px;
+    height: 24px;
+  } */
+
+.layout {
+  Width: 1920px;
+
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+ul li {
+  padding: 15px;
+}
+
+/* Navbar */
+.navbar {
+  Height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05), 0 3px 6px rgba(0, 0, 0, 0.05);
+  background: #FFFFFF;
+}
+
+.menu_list {
+  display: flex;
+}
+
+/* Mobile Navbar */
+.menu_icon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.mobileNav_menu_container {
+  position: relative;
+}
+
+.mobileNav_menu_list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  margin: auto;
+  background: dodgerblue;
+  border-radius: 4px;
+  color: white;
+  transition: ease all 0.4s;
+}
+
+.mobileNav_container {
+  display: none;
+  padding: 10px;
+}
+
+.mobileNav_closed {
+  top: -300px;
+}
+
+.mobileNav_open {
+  top: 10px;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 600px) {
+
+  /* Navbar Media Queries */
+  .navbar {
+    display: none;
+  }
+
+  /* Mobile Navbar Media Queries */
+  .mobileNav_container {
+    display: flex;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,59 @@
+.Hiring-layout {
+    width: 318.75px;
+    height: 260.52px;
+    top: 1551.86px;
+    left: 1563.2px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 25px
+        /* border: 2px solid #0A66C2; */
+}
+.Hiring-candidates{
+    display: flex;
+}
+
+.Hiring-text {
+    width: 94.96px;
+    height: 32.43px;
+    top: 1551.86px;
+    left: 1563.2px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: left;
+    color: #3E3E3E;
+
+}
+
+.Hiring-all {
+    width: 66.16px;
+    height: 26.04px;
+    top: 1075.35px;
+    margin-left: 150px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #0A66C2;
+    text-decoration: underline;
+
+}
+
+.Button-Detail{
+    width: 73.75px;
+height: 37.97px;
+top: 2062.4px;
+left: 1807.93px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #0A66C2;
+color:#0A66C2;
+}

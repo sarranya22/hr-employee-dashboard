@@ -1,0 +1,15 @@
+.Sidenav-layout {
+    width: 125px;
+    height: 2466px;
+    top: 190px;
+    gap: 0px;
+    border-radius: 0px 40px 0px 0px;
+    opacity: 0px;
+    box-shadow: 4px 4px 25px 0px #00000026;
+    background: #FFFFFF;
+}
+.menu-icon {
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+}

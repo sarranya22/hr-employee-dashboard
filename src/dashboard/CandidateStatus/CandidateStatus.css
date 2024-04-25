@@ -1,0 +1,158 @@
+.Candidate-layout {
+    width: 1220px;
+    height: 561.88px;
+    top: 773px;
+    margin-top: 25px;
+    /* left: 165.85px; */
+    margin-left: 65px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 25px 0px #00000026;
+}
+
+.Candidate-status-Layout {
+    width: 1283.51px;
+    height: 33px;
+    /* top: 820.39px; */
+    margin-left: 50px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    padding-top: 20px;
+
+}
+
+.Candidate-Text {
+    width: 240px;
+    height: 33px;
+    /* top: 820.39px; */
+    /* margin-left: 199.34px; */
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: left;
+    color: #000000;
+}
+
+.CandidateView-all {
+    width: 66.16px;
+    height: 26.04px;
+    top: 1075.35px;
+    /* margin-left: 190px; */
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #0A66C2;
+    text-decoration: underline;
+
+}
+
+.Table-layout {
+    width: 1189.28px;
+    height: 408px;
+    top: 2145.37px;
+    left: 234.33px;
+    gap: 0px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: 30px;
+    margin-left:15px;
+}
+
+.Table-header {
+    width: 1293px;
+    height: 49px;
+    top: 2132.37px;
+    left: 205.92px;
+    gap: 0px;
+    opacity: 0px;
+    background: #F5F5F5;
+
+}
+
+.Header-cell {
+    width: 58.29px;
+    height: 21px;
+    top: 2145.37px;
+    left: 676px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: left;
+    color: #3E3E3E;
+
+}
+.Status-label {
+    width: 43.97px;
+height: 21px;
+top: 2404.37px;
+left: 1296.91px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+/* text-align: left; */
+color: #D12323;
+
+}
+.Status{
+    /* width: 80.81px; */
+height: 25px;
+top: 2402.37px;
+left: 1279px;
+gap: 0px;
+border-radius: 2px 0px 0px 0px;
+opacity: 0px;
+background: #E73B3B26;
+
+}
+.Search-layout {
+    width: 584.06px;
+height: 57px;
+top: 2026px;
+left: 914.92px;
+padding: 0px;
+gap: 0px;
+opacity: 0px;
+/* background-color: red; */
+}
+.Filter-layout{
+    width: 183.06px;
+height: 57px;
+top: 2026px;
+left: 1315.92px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+float: right;
+/* background-color: green; */
+}
+.Filter{
+    width: 59.31px;
+height: 30px;
+top: 2039px;
+left: 1407.84px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+color: #000000;
+
+}

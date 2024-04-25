@@ -1,24 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Dashboard from './dashboard/Dashboard';
+import Header from './header/Header';
+import Sidenav from './sidenav/Sidenav';
+import { Calendar } from './dashboard/Calendar';
+import 'react-date-range/dist/styles.css'; // main css file
+import 'react-date-range/dist/theme/default.css'; // theme css file
+// import Layouts from './Layouts/Layouts';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />      
+      <div className="container">
+        <aside className="drawer">
+        <Sidenav />
+        </aside>
+        <main className="main">
+          <Dashboard />
+        </main>
+        <Calendar />
+      </div>
     </div>
+    // <Layouts />
   );
 }
 

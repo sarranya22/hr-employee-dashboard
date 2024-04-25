@@ -1,0 +1,197 @@
+.Postedjob-layout {
+    width: 1220px;
+    height: 561.88px;
+    top: 773px;
+    margin-top: 25px;
+    /* left: 165.85px; */
+    margin-left: 65px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 25px 0px #00000026;
+}
+
+.Postedjob-status-Layout {
+    width: 1283.51px;
+    /* height: 33px; */
+    /* top: 820.39px; */
+    margin-left: 50px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    padding-top: 20px;
+
+}
+
+.Postedjob-Text {
+    width: 240px;
+    height: 33px;
+    /* top: 820.39px; */
+    /* margin-left: 199.34px; */
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: left;
+    color: #000000;
+}
+
+.PostedjobView-all {
+    width: 66.16px;
+    height: 26.04px;
+    top: 1075.35px;
+    /* margin-left: 190px; */
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #0A66C2;
+    text-decoration: underline;
+
+}
+
+.Jobs {
+    display: flex;
+    padding-left: 45px;
+    padding-top: 15px;
+}
+
+.Jobs-text {
+    width: 115px;
+    height: 30px;
+    top: 1508.48px;
+    left: 195.85px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #3E3E3E;
+}
+
+.Job-layout {
+    width: 1215.65px;
+    height: 328.46px;
+    top: 1579.74px;
+    left: 198px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+}
+
+.Job-post {
+    width: 295.65px;
+    height: 328.46px;
+    top: 1579.74px;
+    left: 198px;
+    gap: 0px;
+    margin-left: 30px;
+    box-shadow: 4px 4px 25px 0px #00000026;
+    opacity: 0px;
+}
+
+.Job-developer {
+    display: flex;
+    /* background-color: aqua; */
+    /* padding-left: 10px; */
+    margin-top: 12px;
+
+    font-family: Poppins;
+    /* font-size: 18px; */
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    background: #FFFFFF;
+
+}
+
+.Settings {
+    padding-left: 85px;
+}
+
+.Count-color {
+    color: #0A66C2;
+
+}
+
+.Count-layout {
+    width: 100px;
+    height: 80px;
+    top: 1710.74px;
+    left: 295px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    background: #D9E4EF;
+
+}
+
+.Count {
+    width: 53px;
+    height: 42px;
+    top: 1729.74px;
+    left: 318px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    text-align: left;
+    color: #0A66C2;
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Developer-count {
+    margin-top: 12%;
+    margin-left: 30%;
+}
+
+.job {
+    display: flex;
+    overflow: scroll;
+    overflow-y: hidden;
+}
+
+.Developer-text {
+    width: 126px;
+    height: 21px;
+    top: 1671.74px;
+    left: 283px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: #3E3E3E;
+
+}
+
+.jobstxt {
+    width: 110px;
+    height: 18px;
+    top: 1871.74px;
+    left: 241px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+
+}
